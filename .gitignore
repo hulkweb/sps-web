@@ -1,0 +1,8 @@
+.env
+.env.backup
+.env.example
+.env.production
+/public/uploads/
+/public/invoices/
+/storage/
+
